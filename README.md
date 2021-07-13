@@ -1,6 +1,6 @@
 # jogo_em_c
-o jogo foi feito com Allegro
-
+- o jogo foi feito com Allegro
+- para o jogo funcionar é necessario baixar todos os aquivos e colocar na mesma pasta, pode ser executado com o arquivo **jogo.exe**
 
 ## Como o jogo funciona
 - O jogo é uma simplificação do jogo Combat para Atari. Para jogar as teclas A W S D, controla
