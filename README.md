@@ -1,4 +1,4 @@
-# jogo_em_c
+# jogo em c
 - o jogo foi feito com Allegro
 - para o jogo funcionar é necessario baixar todos os aquivos e colocar na mesma pasta, pode ser executado com o arquivo **jogo.exe**
 
